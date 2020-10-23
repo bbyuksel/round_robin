@@ -1,2 +1,2 @@
 # round_robin
-Implementation of Scheduling algorithm of Round Robin
+Implementation of scheduling algorithm of Round Robin in recursive function
