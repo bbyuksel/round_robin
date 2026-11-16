@@ -1,0 +1,14 @@
+# Compiled binaries
+round_robin
+
+# Output files
+cikti.txt
+*.txt
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
